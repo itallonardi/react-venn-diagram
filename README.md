@@ -2,6 +2,9 @@
 
 **React Venn Diagram** is an interactive and customizable Venn diagram component built with React and D3. This component allows you to create attractive and informative Venn diagrams for visualizing intersection data.
 
+![Example Image 1](./demo.png)
+*Figure 1: Basic Venn Diagram*
+
 ### Features
 
 - **Interactive**: Smooth animations and interactions when hovering over circles.
@@ -106,6 +109,10 @@ const labels = {
   labelIntersection: 'Common Area'
 };
 ```
+
+### Acknowledgements
+
+Special thanks to the [D3.js](https://d3js.org/) community for their incredible library, which made this project possible.
 
 ### Contributing
 
